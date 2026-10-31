@@ -33,28 +33,25 @@ That's why I like to make things that make a difference.
 - C
 - C++
 - C#
+- Java
 
 
 ### 🧰 Frameworks and libraries
 
-- Bootstrap
+- Angular
 - Express.js
 - React.js
 - React Native
+- Spring Boot
+- DJANGO
+- Fast API
+- Pandas
+- Dev-Ops
+- Gitlab CI/CD
 
 ### 🗄️ Databases and Cloud Hosting
 
-- Github pages.
 - Heroku
 - MySQL
 - MongoDB
 - PostgreSQL
-
-### 💻 Software and tools
-
-- Visual Studio Code
-- CodePen
-- StackOverFlow
-- Git
-- OBS Studio
-- PostMan
