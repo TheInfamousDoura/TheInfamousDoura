@@ -22,40 +22,19 @@ I’m always looking to keep learning, take on bigger challenges, and grow acros
 
 🧑‍💻 [LinkedIn Profile](https://www.linkedin.com/in/andrew-kamel-950b54243/)
 
-## 🛠️ My Favourite tools
-
-
-
-### 👨‍💻 Programming languages
-
-- JavaScript
-- TypeScript
-- Python
-- HTML/CSS
-- Node.Js
-- SQL
-- C
-- C++
-- C#
-- Java
-
-
-### 🧰 Frameworks and libraries
-
+### 🛠️ Core Stack
 - Angular
-- Express.js
-- React.js
-- React Native
+- React
+- Java
 - Spring Boot
-- DJANGO
-- Fast API
-- Pandas
-- Dev-Ops
-- Gitlab CI/CD
-
-### 🗄️ Databases and Cloud Hosting
-
-- Heroku
+- Python
+- REST APIs
+- PostgreSQL
 - MySQL
 - MongoDB
-- PostgreSQL
+- Azure
+- Docker
+- Kubernetes
+- GitLab CI/CD
+- Linux
+- DevOps
